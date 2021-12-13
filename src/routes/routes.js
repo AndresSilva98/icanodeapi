@@ -6,9 +6,7 @@ const rol = require('../functions/Rol');
 const report = require('../functions/Reports');
 
 router.get('/', async (req, res) => {
-    let tokenResponse;
-    tokenResponse = await auth.getAccessToken();
-    res.json(tokenResponse);
+    res.send('api para consulta de datos')
 })
 
 router.get('/users', async (req, res) => {

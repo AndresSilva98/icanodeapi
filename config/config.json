@@ -1,0 +1,13 @@
+{
+    "authenticationMode": "MasterUser",
+    "authorityUri": "https://login.microsoftonline.com/common/v2.0",
+    "scope": "https://analysis.windows.net/powerbi/api",
+    "apiUrl": "https://api.powerbi.com/",
+    "clientId": "63b49936-ac67-431e-b1f8-a82a2534d948",
+    "workspaceId": "f7aa99f3-3d48-40f1-8db2-dbb0e2ff52de",
+    "reportId": "296cd435-87cf-4cc4-a009-c735292efd89",
+    "pbiUsername": "andres.silva@iscloudcorporation.com",
+    "pbiPassword": "NuevaClave3",
+    "clientSecret": "tm6BKrkS~_-4O5r_n__1XSb40Tsac8_1mv",
+    "tenantId": "408f8bef-1b73-4a95-be91-07e897d19eb1"
+}

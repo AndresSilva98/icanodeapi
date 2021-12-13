@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'apinodeica'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97B98994AF064370892835047FF00027 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC660023B4A941AEAE8518E2FEBFBB2F }}
           package: .
